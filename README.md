@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshikaschauhan/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0238-product-of-array-except-self](https://github.com/anshikaschauhan/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Stack
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshikaschauhan/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anshikaschauhan/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
