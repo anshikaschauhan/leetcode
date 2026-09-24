@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anshikaschauhan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anshikaschauhan/leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/anshikaschauhan/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0766-toeplitz-matrix](https://github.com/anshikaschauhan/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anshikaschauhan/leetcode/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/anshikaschauhan/leetcode/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
