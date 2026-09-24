@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshikaschauhan/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshikaschauhan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshikaschauhan/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/anshikaschauhan/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshikaschauhan/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/anshikaschauhan/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
