@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anshikaschauhan/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshikaschauhan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshikaschauhan/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/anshikaschauhan/leetcode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/anshikaschauhan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anshikaschauhan/leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/anshikaschauhan/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anshikaschauhan/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anshikaschauhan/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
