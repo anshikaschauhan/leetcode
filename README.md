@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anshikaschauhan/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshikaschauhan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/anshikaschauhan/leetcode/tree/master/0443-string-compression) |
+| [0845-longest-mountain-in-array](https://github.com/anshikaschauhan/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1768-merge-strings-alternately](https://github.com/anshikaschauhan/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anshikaschauhan/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/anshikaschauhan/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0766-toeplitz-matrix](https://github.com/anshikaschauhan/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0845-longest-mountain-in-array](https://github.com/anshikaschauhan/leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshikaschauhan/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anshikaschauhan/leetcode/tree/master/0010-regular-expression-matching) |
+| [0845-longest-mountain-in-array](https://github.com/anshikaschauhan/leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Manacher
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anshikaschauhan/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/anshikaschauhan/leetcode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
