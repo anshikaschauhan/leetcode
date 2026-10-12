@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anshikaschauhan/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anshikaschauhan/leetcode/tree/master/0443-string-compression) |
 | [0845-longest-mountain-in-array](https://github.com/anshikaschauhan/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/anshikaschauhan/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/anshikaschauhan/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/anshikaschauhan/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0766-toeplitz-matrix](https://github.com/anshikaschauhan/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/anshikaschauhan/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/anshikaschauhan/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshikaschauhan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anshikaschauhan/leetcode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/anshikaschauhan/leetcode/tree/master/0268-missing-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/anshikaschauhan/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anshikaschauhan/leetcode/tree/master/0268-missing-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/anshikaschauhan/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
 | ------- |
