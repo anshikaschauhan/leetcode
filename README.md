@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anshikaschauhan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anshikaschauhan/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/anshikaschauhan/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/anshikaschauhan/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/anshikaschauhan/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0845-longest-mountain-in-array](https://github.com/anshikaschauhan/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/anshikaschauhan/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshikaschauhan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/anshikaschauhan/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
